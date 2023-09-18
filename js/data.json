@@ -1,0 +1,19 @@
+[{
+        "imageURL": "TEST.jpg",
+        "title": "Title 1",
+        "description": "Description 1",
+        "readMore": "https://instagram.com"
+    },
+    {
+        "imageURL": "img/aright.svg",
+        "title": "Title 2",
+        "description": "Description 2",
+        "readMore": "https://instagram.com"
+    },
+    {
+        "imageURL": "img/aleft.svg",
+        "title": "Title 3",
+        "description": "Description 3",
+        "readMore": "https://instagram.com"
+    }
+]
